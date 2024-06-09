@@ -1,0 +1,19 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml"
+#EXTINF:-1 channel-id="samsung-USBA3000043LH" tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20240528T020852SQUARE.png" tvg-chno="1000" group-title="QT" , Samsung Wild Life
+https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD1700009P5" tvg-id="USBD1700009P5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20240520T220204SQUARE.png" tvg-chno="2448" group-title="QT" , World Poker Tour
+https://i.mjh.nz/SamsungTVPlus/USBD1700009P5.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-US4000033L" tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" tvg-chno="1140" group-title="QT" , BBC News
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBB52000022Q" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20240520T223417SQUARE.png" tvg-chno="1145" group-title="QT" , Sky News
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD12000183X" tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20240520T220037SQUARE.png" tvg-chno="2446" group-title="QT" , Billiard TV
+https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBC39000204J" tvg-id="USBC39000204J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20240520T214814SQUARE.png" tvg-chno="3550" group-title="QT" , Military Heroes
+https://i.mjh.nz/SamsungTVPlus/USBC39000204J.m3u8
